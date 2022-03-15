@@ -1,9 +1,9 @@
 # todo_app
 
-Họ tên: Đào Văn Tùng
-Mã sinh viên: 1821050795
-Học phần: Dữ liệu lớn và ứng dụng
-Bài tập về nhà: Thực hành viết API với NodeJS và MongoDB
+ - Họ tên: Đào Văn Tùng
+ - Mã sinh viên: 1821050795
+ - Học phần: Dữ liệu lớn và ứng dụng
+ - Bài tập về nhà: Thực hành viết API với NodeJS và MongoDB
 
 (Sử dụng Flutter để xây dựng giao diện)
 
